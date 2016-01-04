@@ -1,2 +1,2 @@
-zga-common
+common libs - java
 ==========
